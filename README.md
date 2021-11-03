@@ -28,7 +28,7 @@ src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=ama
 src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white.svg">
     <img align="center" alt="Rafa-Flask" height="30" width="50"
 src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://sadanduseless.b-cdn.net/wp-content/uploads/2018/03/painting1.jpg">
 </div>
   
   ##
