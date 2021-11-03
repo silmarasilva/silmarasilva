@@ -38,6 +38,6 @@ src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&lo
   <a href="https://www.linkedin.com/in/silmara-eliza-de-paula-silva-564814141" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
  
- ![Snake animation](https://github.com/silmarasilva/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/silmarasilva/silmarasilva/blob/output/github-contribution-grid-snake.svg)
  
 </div>
