@@ -3,9 +3,9 @@
 ##
 
 - 🔭 I’m currently working on SRE and Perfomance.
-- 🌱 I’m interested in Back-end, Shell Script, AWS, Docker, Terraform, and Kubernetes.
+- 🌱 I’m interested in back-end, shell script, AWS, Docker, Terraform, and Kubernetes.
 - 😄 Pronouns: she/her
-- 
+
 ##
 
 <div align="center">
