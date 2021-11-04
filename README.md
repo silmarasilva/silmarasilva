@@ -1,12 +1,16 @@
-### Hello stranger! Welcoming, greeting & greetings. 👋
+### Hello stranger! Welcoming, greeting & greetings 🍒
+
+I'm linguist and programmer because logical reasoning and interpretation save lives.
 
 ##
 
-- 🔭 I’m currently working on SRE and Perfomance.
-- 🌱 I’m interested in back-end, shell script, AWS, Docker, Terraform, and Kubernetes.
-- 😄 Pronouns: she/her
+- I’m currently working on SRE and Perfomance project.
+- I’m interested in back-end, Linux, shell script, and Python.
+- Pronouns: she/her
+- I'm very curious and I love studying.
 
-##
+**Stack & Skills:**
+- Terraform • Docker • Kubernetes • AWS • MySQL• RDS • Oracle • Grafana • Prometheus • Python • APIRest
 
 <div align="center">
   <a href="https://github.com/silmarasilva">
@@ -15,20 +19,18 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Mysql" height="30" width="50" 
+  <img align="center" alt="Rafa-Mysql" height="30" width="70" 
 src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white.svg">
-  <img align="center" alt="Rafa-AWS" height="30" width="50" 
+  <img align="center" alt="Rafa-AWS" height="30" width="70" 
 src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white.svg">
-  <img align="center" alt="Rafa-Shell" height="30" width="50" 
+  <img align="center" alt="Rafa-Shell" height="30" width="70" 
 src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white.svg">
-    <img align="center" alt="Rafa-Flask" height="30" width="50"
+    <img align="center" alt="Rafa-Flask" height="30" width="70"
 src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://sadanduseless.b-cdn.net/wp-content/uploads/2018/03/painting1.jpg">
 </div>
   
   ##
-  
- <div>
    
   <a href="https://www.linkedin.com/in/silmara-eliza-de-paula-silva-564814141" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
