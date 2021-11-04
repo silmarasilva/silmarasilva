@@ -1,13 +1,13 @@
 ### Hello stranger! Welcoming, greeting & greetings 🍒
 
-I'm linguist and programmer because logical reasoning and interpretation save lives.
+I'm a linguist and programmer because logical reasoning and interpretation save lives.
 
 ##
 
 - I’m currently working on SRE and Perfomance project.
 - I’m interested in back-end, Linux, shell script, and Python.
 - Pronouns: she/her
-- I'm very curious and I love studying.
+- I'm a very curious and I love studying.
 
 **Stack & Skills:**
 - Terraform • Docker • Kubernetes • AWS • MySQL• RDS • Oracle • Grafana • Prometheus • Python • APIRest
