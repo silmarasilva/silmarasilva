@@ -4,7 +4,7 @@ I'm a linguist and programmer because logical reasoning and interpretation save 
 
 ##
 
-- I’m currently working on SRE and Perfomance project.
+- I’m currently working on an SRE and performance project.
 - I’m interested in back-end, Linux, shell script, and Python.
 - Pronouns: she/her
 - I'm a very curious and I love studying.
