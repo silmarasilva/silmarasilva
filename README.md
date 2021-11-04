@@ -6,9 +6,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on SRE and Perfomance.
 - 🌱 I’m currently learning Back-end, Shell Script and AWS.
-- 👯 I’m looking to collaborate on SRE projects.
-- 🤔 I’m looking for help with SRE projects.
-- 💬 Ask me about Transitions Career.
 - 😄 Pronouns: she/her
 
 ##
