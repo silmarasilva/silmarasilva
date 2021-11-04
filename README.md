@@ -2,12 +2,10 @@
 
 ##
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on SRE and Perfomance.
-- 🌱 I’m currently learning Back-end, Shell Script and AWS.
+- 🌱 I’m interested in Back-end, Shell Script, AWS, Docker, Terraform, and Kubernetes.
 - 😄 Pronouns: she/her
-
+- 
 ##
 
 <div align="center">
