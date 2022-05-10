@@ -25,8 +25,10 @@ src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&lo
 src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white.svg">
   <img align="center" alt="Rafa-Shell" height="30" width="70" 
 src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white.svg">
-    <img align="center" alt="Rafa-Flask" height="30" width="70"
+  <img align="center" alt="Rafa-Flask" height="30" width="70"
 src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white.svg">
+  <img align="center" alt="Rafa-Go" height="30" width="70"
+src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" style="max-width:100%;">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://sadanduseless.b-cdn.net/wp-content/uploads/2018/03/painting1.jpg">
 </div>
   
@@ -35,6 +37,6 @@ src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&lo
   <a href="https://www.linkedin.com/in/silmara-eliza-de-paula-silva-564814141" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
  
- ![Snake animation](https://github.com/silmarasilva/silmarasilva/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/silmarasilva/silmarasilva/blob/output/github-contribution-grid-snake.svg)
  
 </div>
