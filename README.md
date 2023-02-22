@@ -6,8 +6,7 @@ I'm a linguist and programmer because logical reasoning and interpretation save 
 
 - I’m currently working on an SRE and Performance project.
 - I’m interested in back-end, Linux, shell script, and Python.
-- Pronouns: she/her
-- I'm a very curious and I love studying.
+- I'm very curious and I love studying.
 
 **Stack & Skills:**
 - Terraform • Docker • Kubernetes • AWS • MySQL• RDS • Oracle • Grafana • Prometheus • Python • APIRest
