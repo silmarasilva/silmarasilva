@@ -14,21 +14,6 @@ I'm a linguist and Devops.
   <a href="https://github.com/silmarasilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silmarasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silmarasilva&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Mysql" height="30" width="70" 
-src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white.svg">
-  <img align="center" alt="Rafa-AWS" height="30" width="70" 
-src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white.svg">
-  <img align="center" alt="Rafa-Shell" height="30" width="70" 
-src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white.svg">
-  <img align="center" alt="Rafa-Flask" height="30" width="70"
-src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white.svg">
-  <img align="center" alt="Rafa-Go" height="30" width="70"
-src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" style="max-width:100%;">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://sadanduseless.b-cdn.net/wp-content/uploads/2018/03/painting1.jpg">
-</div>
   
   ##
    
