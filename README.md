@@ -43,7 +43,6 @@ src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColo
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
 
  
 </div>
