@@ -1,15 +1,14 @@
 ### Hello stranger! Welcoming, greeting & greetings 🍒
 
-I'm a linguist and programmer because logical reasoning and interpretation save lives.
+I'm a linguist and Devops.
 
 ##
 
-- I’m currently working on an SRE and Performance project.
-- I’m interested in back-end, Linux, shell script, and Python.
-- I'm very curious and I love studying.
+- I’m currently working on an SRE/Devops Team.
+- I'm very curious and on my free time I like to exploring the world.
 
 **Stack & Skills:**
-- Terraform • Docker • Kubernetes • AWS • MySQL• RDS • Oracle • Grafana • Prometheus • Python • APIRest
+- Terraform • Docker • Kubernetes • AWS • GCP • ShellScript • Go • Python • APIRest 
 
 <div align="center">
   <a href="https://github.com/silmarasilva">
