@@ -1,4 +1,4 @@
-### Hello stranger! Welcoming, greeting & greetings 🍒
+### Hello stranger! Welcoming 🍒
 
 I'm a linguist and Devops.
 
