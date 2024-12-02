@@ -8,7 +8,7 @@ I'm a linguist and Devops.
 - I'm very curious and on my free time you will find me exploring the world.
 
 **Stack & Skills:**
-- Terraform • Docker • Kubernetes • AWS • GCP • ShellScript • Go • Python • APIRest 
+- Terraform • Docker • Kubernetes • AWS • GCP • ShellScript • Go • Python • APIRest • Pipelines
 
 <div align="center">
   <a href="https://github.com/silmarasilva">
