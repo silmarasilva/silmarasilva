@@ -1,14 +1,14 @@
 ### Hello stranger! Welcoming 🍒
 
-I'm a linguist and Devops.
+I'm a linguist and Devops/SRE.
 
 ##
 
-- At the moment, I'm interested in learning Python/Go and developing small projects that include other technologies.
+- At the moment, I'm interested in learning Python and developing small projects that include other technologies.
 - I'm very curious and on my free time you will find me exploring the world.
 
 **Stack & Skills:**
-- Terraform • Docker • Kubernetes • AWS • GCP • ShellScript • Go • Python • APIRest • Pipelines
+- Terraform • Docker • Kubernetes • AWS • GCP • ShellScript • Python • APIRest • Pipelines
 
 <div align="center">
   <a href="https://github.com/silmarasilva">
